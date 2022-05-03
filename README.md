@@ -11,7 +11,7 @@ This is where I'll be putting my miscellaneous coursework and projects.
 Also likes :guitar:
 
 :email: Contact me:
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msolurenjr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchsoluren/)
 
 For random guitar-related stuff:
